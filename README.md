@@ -1,2 +1,2 @@
 # Component_Function
-Created with CodeSandbox
+Initializing with React - function
